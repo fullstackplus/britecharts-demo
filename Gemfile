@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+ruby '2.7.1'
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'json'
+# gem 'builder'
+gem 'rack-test'
+gem 'pry'
